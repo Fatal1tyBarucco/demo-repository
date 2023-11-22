@@ -2,6 +2,8 @@
 
 ![Proof HTML](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
+[![Dependency Review](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml)
+
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 

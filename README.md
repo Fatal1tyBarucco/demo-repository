@@ -4,6 +4,8 @@
 
 [![Dependency Review](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml)
 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/jekyll-gh-pages.yml)
+
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 

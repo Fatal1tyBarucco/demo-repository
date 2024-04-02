@@ -6,6 +6,10 @@
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/jekyll-gh-pages.yml)
 
+[![Semantic Release](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/release-main.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/release-main.yml)
+
+[![Update Changelog 🎉](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-changelog.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-changelog.yml)
+
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 

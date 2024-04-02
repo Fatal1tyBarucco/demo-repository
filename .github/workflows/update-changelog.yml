@@ -1,0 +1,29 @@
+name: Update Changelog 🎉
+
+on:
+  release:
+    types: [released]
+
+jobs:
+  update-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🎉 Changelog Update on main branch 📄
+      uses: Fatal1tyBarucco/changelog_update@main
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    # Run Source Code Checkout
+    - name: 'Checkout source code'
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+        fetch-depth: 0
+    - run: git config --global user.email "barucco@gmail.com"
+    - run: git config --global user.name "Renato Barucco"
+    - run: git switch main
+    - run: git show-ref
+    - run: git remote -v
+    - run: git branch -vv
+    - run: git pull -v

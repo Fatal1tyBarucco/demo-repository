@@ -1,0 +1,55 @@
+name: Semantic Release
+on:
+  pull_request:
+    types:
+      - closed
+
+#
+# Required to be able to call the REST API to create both the
+# new tag and release.
+#
+permissions:
+  contents: write
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo The PR was merged
+  SemanticRelease:
+    needs: if_merged    
+    name: Perform a semantic release
+    runs-on: ubuntu-latest
+    steps:
+      - name: action-release
+        id: release
+        uses: mateothegreat/action-release@main
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          owner: rbaruccojr
+          repo: demo-repository
+          default: 0.0.1
+          prefix: v
+          increment: patch
+          #  release_name: release 🎉
+          release_body: |
+              Minor release with many small,
+              but great improvements 👏..
+          release_notes: true
+          committer_name: Renato Barucco
+          committer_email: barucco@gmail.com
+      - name: Print the current and next version using outputs
+        run: |
+          echo 'Current Version:' ${{ steps.release.outputs.current_version }}
+          echo 'Next Version:' ${{ steps.release.outputs.next_version }}
+      # Run Source Code Checkout
+      - name: 'Checkout source code'
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - run: git config --global user.email "barucco@gmail.com"
+      - run: git config --global user.name "Renato Barucco"
+      - run: npm version patch -m '${{ steps.release.outputs.next_version }}'
+      - run: git push

@@ -4,7 +4,29 @@
   "version": "0.0.1",
   "description": "My Demo Repo",
   "dependencies": {
-    "@primer/css": "21.3.0-rc.b2db18c5"
+    "@primer/css": "21.3.0-rc.b2db18c5",
+    "husky": "^9.0.11",
+    "npm": "^10.5.0"
+  },
+  "npm": {
+    "overrides": {
+      "whatwg-url": "14.0.0"
+    }
+  },
+  "engines": {
+    "node": "^21.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Fatal1tyBarucco/demo-repository/issues"
+  },
+  "homepage": "https://github.com/Fatal1tyBarucco/demo-repository#readme",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@salesforce-ux/design-system": "^3.0.1-dev"
   },
   "license": "MIT"
 }

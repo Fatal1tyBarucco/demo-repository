@@ -10,6 +10,8 @@
 
 [![Update Changelog 🎉](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-changelog.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-changelog.yml)
 
+[![Weather Cronjob](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-weather.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-weather.yml)
+
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 

@@ -15,7 +15,6 @@
 ## Today's Weather
 <div align="center">
 
-
 `Rio De Janeiro, Brazil - 02/04/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
@@ -76,30 +75,4 @@ Sunny
 </table>
 
 
-*Updated at: 2024-04-03T04:37:58Z*
-
-<table>
-    <tr>
-        <th>Date</th>
-        <td>02/04/2024</td><td>03/04/2024</td><td>04/04/2024</td><td>05/04/2024</td><td>06/04/2024</td><td>07/04/2024</td><td>08/04/2024</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>22.4 -  27.9 °C</td><td>21.5 -  28.2 °C</td><td>21.6 -  28.8 °C</td><td>21.2 -  27.3 °C</td><td>21.4 -  28 °C</td><td>21.3 -  30.7 °C</td><td>23.5 -  29.6 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>11.2 kph</td><td>11.9 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>14 kph</td><td>7.9 kph</td><td>11.2 kph</td>
-    </tr>
-</table>
-
-
-*Updated at: 2024-04-03T04:37:58Z*
+*Updated at: 2024-04-03T04:44:54Z*

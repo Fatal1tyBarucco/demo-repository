@@ -14,19 +14,25 @@
 
 ## Today's Weather
 <div align="center">
+{{ with $todayWeather := index .Weathers 0 }}
 
-`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
 
-<img src="{{ $.TodayWeather.Icon}}"/>
+<img src="{{ $todayWeather.Icon}}"/>
 
-{{ $.TodayWeather.Condition }}
+{{ $todayWeather.Condition }}
 
 </div>
 
-{{template "hourly-table" $.TodayWeather.HourlyWeathers}}
+{{template "hourly-table" $todayWeather.HourlyWeathers}}
+
+{{- end }}
 
 ## Weather For Next {{ len .Weathers }} days
 
+{{template "daily-table" .Weathers}}
+
+*Updated at: {{formatTime .UpdatedAt}}*
 {{template "daily-table" .Weathers}}
 
 *Updated at: {{formatTime .UpdatedAt}}*

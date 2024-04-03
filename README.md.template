@@ -1,6 +1,6 @@
-![Auto Assign](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+[![Auto Assign](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/auto-assign.yml)
 
-![Proof HTML](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+[![Proof HTML](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml)
 
 [![Dependency Review](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/dependency-review.yml)
 
@@ -15,9 +15,9 @@
 ## Today's Weather
 <div align="center">
 
-`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
+`{{ $.TodayWeather.City }}, {{ $.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
 
-<img src="{{ $.TodayWeather.Icon}}"/>
+<img src="{{ $.TodayWeather.Icon }}"/>
 
 {{ $.TodayWeather.Condition }}
 

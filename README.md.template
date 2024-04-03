@@ -12,10 +12,23 @@
 
 [![Weather Cronjob](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-weather.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/update-weather.yml)
 
-# Welcome to your organization's demo respository
+## Today's Weather
+<div align="center">
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
 
-{{ template "daily-table" .Weathers }}
+<img src="{{ $.TodayWeather.Icon}}"/>
 
-{{ formatTime .UpdatedAt }}
+{{ $.TodayWeather.Condition }}
+
+</div>
+
+{{template "hourly-table" $.TodayWeather.HourlyWeathers}}
+
+## Weather For Next {{ len .Weathers }} days
+
+{{template "daily-table" .Weathers}}
+
+*Updated at: {{formatTime .UpdatedAt}}*
+
+![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")

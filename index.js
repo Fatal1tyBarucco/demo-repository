@@ -15,7 +15,7 @@ const SLDS_DIR = '/node_modules/@salesforce-ux/design-system/assets';
 // Configure rate limiting middleware (unchanged)
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100,                // Allow up to 100 requests per window
+  max: 100, // Allow up to 100 requests per window
   // Customize the response for exceeded limits (optional)
   handler: (req, res, next, options) => {
     res.status(options.statusCode).json({
@@ -60,7 +60,11 @@ app.listen(PORT, function () {
 
 const main = async () => {
   try {
-    const { draft: isDraft, prerelease: isPrerelease, tag_name: gitTag } = github.context.payload.release;
+    const {
+      draft: isDraft,
+      prerelease: isPrerelease,
+      tag_name: gitTag
+    } = github.context.payload.release;
     const gitTagWithoutV = gitTag.slice(1);
     const packageJson = await fs.readJson('./package.json');
     const packageJsonVersion = packageJson?.version;
@@ -115,9 +119,15 @@ const main = async () => {
     }
 
     if (!isPrerelease && hasSemverPrerelease) {
-  core.setFailed(
-    'Release git tag and package.json versions follow pre-release format, ie. `1.2.3-beta.1`, but release in GitHub is not marked as `pre-release`.'
-  );
+      core.setFailed(
+        'Release git tag and package.json versions follow pre-release format, ie. `1.2.3-beta.1`, but release in GitHub is not marked as `pre-release`.'
+      );
 
-  return;
-}
+      return;
+    }
+  } catch (error) {
+    core.setFailed(error.message);
+  }
+};
+
+main();

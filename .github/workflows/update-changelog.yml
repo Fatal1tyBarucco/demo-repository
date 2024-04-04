@@ -16,7 +16,7 @@ jobs:
 
     # Run Source Code Checkout
     - name: 'Checkout source code'
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
       with:
         token: ${{ secrets.GH_TOKEN }}
         fetch-depth: 0

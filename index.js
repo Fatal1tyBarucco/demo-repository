@@ -133,8 +133,4 @@ const isValidPath = (requestedPath) => {
   return isPathValid;
 };
 
-module.exports = isValidPath;
-
-
 main();
-

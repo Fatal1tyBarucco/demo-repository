@@ -7,6 +7,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const rateLimit = require('express-rate-limit');
+const sanitizeFilename = require('sanitize-filename');
 
 const PORT = process.env.PORT || 3001;
 const SLDS_DIR = '/node_modules/@salesforce-ux/design-system/assets';
@@ -35,8 +36,9 @@ app.get('/', function (req, res) {
   });
 });
 
-app.get('/:path', function (req, res) {
-  const requestedPath = path.resolve(ROOT_DIR, req.params.path); // Normalize the requested path
+app.get('/:filename', function (req, res) {
+  let filename = sanitizeFilename(req.params.filename); // Sanitize the filename
+  const requestedPath = path.resolve(ROOT_DIR, filename); // Normalize the requested path
 
   if (!isValidPath(requestedPath)) {
     res.status(400).send('Invalid path');

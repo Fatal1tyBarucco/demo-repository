@@ -28,7 +28,7 @@ jobs:
         uses: mateothegreat/action-release@main
         with:
           github_token: ${{ secrets.GH_TOKEN }}
-          owner: rbaruccojr
+          owner: Fatal1tyBarucco
           repo: demo-repository
           default: 0.0.1
           prefix: v
@@ -46,7 +46,7 @@ jobs:
           echo 'Next Version:' ${{ steps.release.outputs.next_version }}
       # Run Source Code Checkout
       - name: 'Checkout source code'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
       - run: git config --global user.email "barucco@gmail.com"

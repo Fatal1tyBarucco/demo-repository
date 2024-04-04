@@ -4,7 +4,7 @@ const fs = require('fs-extra');
 const semver = require('semver');
 const dedent = require('dedent');
 
-const express = require('express');
+/* const express = require('express');
 const app = express();
 const path = require('path');
 
@@ -18,6 +18,62 @@ app.get('/', function (req, res) {
   //res.send('Hello World!');
   res.sendFile(path.resolve('index.html'));
 });
+app.listen(PORT, function () {
+  console.log(`App listening on port ${PORT}`);
+}); */
+
+const express = require('express');
+const app = express();
+const path = require('path');
+const rateLimit = require('express-rate-limit');
+
+var PORT = process.env.port || 3001;
+
+const SLDS_DIR = '/node_modules/@salesforce-ux/design-system/assets';
+
+// Configure rate limiting middleware (adjust windowMs and max as needed)
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 100,                // Allow up to 100 requests per window
+  // Customize the response for exceeded limits (optional)
+  handler: (req, res, next, options) => {
+    res.status(options.statusCode).json({
+      error: 'Too Many Requests',
+      message: 'Please try again later.'
+    });
+  }
+});
+
+// Apply rate limiting to all requests
+app.use(limiter);
+
+app.use('/slds', express.static(__dirname + SLDS_DIR));
+
+// Improved error handling for file serving
+app.get('/', function (req, res) {
+  res.sendFile(path.resolve('index.html'))
+    .catch(err => {
+      console.error(err);
+      res.status(500).send('Error serving index.html');
+    });
+});
+
+// Handle other valid paths with potential improvements (consider path validation)
+app.get('/:path', function(req, res) {
+  const requestedPath = path.join(__dirname, req.params.path); // Construct absolute path
+
+  // Optional path validation (consider using a dedicated library like 'path-match')
+  if (isValidPath(requestedPath)) { // Implement your validation logic here
+    res.sendFile(requestedPath)
+      .catch(err => {
+        console.error(err);
+        res.status(404).send('Invalid or non-existent path');
+      });
+  } else {
+    res.status(400).send('Invalid path');
+  }
+});
+
 app.listen(PORT, function () {
   console.log(`App listening on port ${PORT}`);
 });

@@ -10,6 +10,7 @@ const rateLimit = require('express-rate-limit');
 
 const PORT = process.env.PORT || 3001;
 const SLDS_DIR = '/node_modules/@salesforce-ux/design-system/assets';
+const ROOT_DIR = '/var/www/'; // Define the root directory for file serving
 
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
@@ -35,7 +36,8 @@ app.get('/', function (req, res) {
 });
 
 app.get('/:path', function (req, res) {
-  const requestedPath = path.join(__dirname, req.params.path);
+  const requestedPath = path.resolve(ROOT_DIR, req.params.path); // Normalize the requested path
+
   if (!isValidPath(requestedPath)) {
     res.status(400).send('Invalid path');
     return;
@@ -121,16 +123,8 @@ const main = async () => {
 };
 
 const isValidPath = (requestedPath) => {
-  // Define the allowed directory
-  const allowedDirectory = path.resolve(__dirname, 'public'); // Assuming 'public' is the allowed directory
-
-  // Resolve the requested path to get the absolute path
-  const resolvedPath = path.resolve(__dirname, requestedPath);
-
-  // Check if the resolved path is within the allowed directory
-  const isPathValid = resolvedPath.startsWith(allowedDirectory);
-
-  return isPathValid;
+  // Ensure that the requested path is within the root directory
+  return requestedPath.startsWith(path.resolve(ROOT_DIR));
 };
 
 main();

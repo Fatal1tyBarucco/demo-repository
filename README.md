@@ -27,7 +27,7 @@ Sunny
 <table>
     <tr>
         <th>Hour</th>
-          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>$${\color{red}01:00}$$</td>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -43,7 +43,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>13 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>4 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4.7 kph</td>
+        <td>3.6 kph</td><td>9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>4 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -66,13 +66,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.4 -  27.2 °C</td><td>21 -  28.1 °C</td><td>21.3 -  30.7 °C</td><td>22.9 -  31.7 °C</td><td>23.6 -  31.7 °C</td><td>23.1 -  28.8 °C</td><td>22.8 -  27.3 °C</td>
+        <td>21.7 -  27.2 °C</td><td>21 -  27.8 °C</td><td>21.3 -  30.3 °C</td><td>22.8 -  31.3 °C</td><td>23.2 -  31.2 °C</td><td>23.4 -  29.2 °C</td><td>22.9 -  28 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>14.8 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>10.8 kph</td>
+        <td>11.9 kph</td><td>14.8 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-04-06T03:47:09Z*
+*Updated at: 2024-04-06T04:10:01Z*

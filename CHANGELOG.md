@@ -1,5 +1,20 @@
 
 
+## 0.0.6
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.6 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump npm from 10.5.1 to 10.5.2 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/26
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.5...0.0.6
+
+
 ## 0.0.5
 
 Minor release with many small,

@@ -1,5 +1,20 @@
 
 
+## 0.0.7
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.7 -->
+
+## What's Changed
+### 🏕 Features
+* ci(Mergify): configuration update by @rbaruccojr in https://github.com/Fatal1tyBarucco/demo-repository/pull/28
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.6...0.0.7
+
+
 ## 0.0.6
 
 Minor release with many small,

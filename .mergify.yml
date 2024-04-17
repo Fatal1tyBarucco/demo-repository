@@ -26,3 +26,17 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+
+  - name: continuously rebase pull requests when it's labeled with `rebase`
+    conditions:
+      - base=main
+      - "#commits-behind>=5"
+    actions:
+      rebase:
+
+  - name: delete head branch after merge but not if other PRs depend on it
+    conditions:
+      - merged
+    actions:
+      delete_head_branch:
+        force: false

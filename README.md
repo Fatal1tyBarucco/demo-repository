@@ -43,7 +43,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>5.8 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>13 kph</td><td>14 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>15.1 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>5.8 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>13 kph</td><td>14 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>13 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Sunny
 </table>
 
 
-*Updated at: 2024-04-21T22:07:31Z*
+*Updated at: 2024-04-21T22:25:24Z*

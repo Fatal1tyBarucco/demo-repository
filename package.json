@@ -6,7 +6,7 @@
   "dependencies": {
     "@primer/css": "21.3.0-rc.91780add",
     "husky": "^9.0.11",
-    "npm": "^10.6.0"
+    "npm": "^10.7.0"
   },
   "npm": {
     "overrides": {

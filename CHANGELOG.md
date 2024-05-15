@@ -1,5 +1,20 @@
 
 
+## 0.0.14
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.14 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump pozil/auto-assign-issue from 1 to 2 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/35
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.13...0.0.14
+
+
 ## 0.0.13
 
 Minor release with many small,

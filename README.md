@@ -66,13 +66,13 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.9 -  30.2 °C</td><td>21.9 -  24.5 °C</td><td>21.1 -  28.5 °C</td>
+        <td>21.9 -  30.4 °C</td><td>21.9 -  24.4 °C</td><td>21.1 -  28.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.4 kph</td><td>10.1 kph</td><td>13 kph</td>
+        <td>17.6 kph</td><td>9.7 kph</td><td>13 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-20T17:33:33Z*
+*Updated at: 2024-05-20T17:47:05Z*

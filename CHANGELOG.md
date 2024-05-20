@@ -1,5 +1,20 @@
 
 
+## 0.0.16
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.16 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump anishathalye/proof-html from 2.1.2 to 2.1.3 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/37
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.15...0.0.16
+
+
 ## 0.0.15
 
 Minor release with many small,

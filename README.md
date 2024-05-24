@@ -43,7 +43,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>7.2 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>4 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.6 kph</td>
+        <td>7.9 kph</td><td>7.2 kph</td><td>4 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>4 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
@@ -58,21 +58,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
+        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.8 -  32.5 °C</td><td>20.6 -  23.5 °C</td><td>20 -  20.7 °C</td>
+        <td>21.7 -  32 °C</td><td>20.6 -  24 °C</td><td>20.2 -  20.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>17.6 kph</td><td>10.1 kph</td>
+        <td>10.4 kph</td><td>19.4 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-24T05:08:17Z*
+*Updated at: 2024-05-24T05:26:11Z*

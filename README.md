@@ -66,13 +66,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.7 -  32 °C</td><td>20.5 -  23.9 °C</td><td>19.8 -  21.8 °C</td>
+        <td>21.7 -  31.8 °C</td><td>20.4 -  24.2 °C</td><td>19.9 -  20.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>18 kph</td><td>20.5 kph</td>
+        <td>9 kph</td><td>16.2 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-24T23:32:28Z*
+*Updated at: 2024-05-24T23:47:01Z*

@@ -43,7 +43,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>13.7 kph</td><td>13 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>15.1 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>9.4 kph</td>
+        <td>5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>13.7 kph</td><td>13 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>20.2 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -66,13 +66,13 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.3 -  24.1 °C</td><td>17.1 -  25.1 °C</td><td>18.6 -  28.3 °C</td>
+        <td>17.3 -  24.1 °C</td><td>17.2 -  25.2 °C</td><td>18.4 -  28 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>11.2 kph</td><td>8.6 kph</td>
+        <td>14.8 kph</td><td>10.8 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-01T23:08:04Z*
+*Updated at: 2024-06-01T23:23:43Z*

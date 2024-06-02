@@ -17,9 +17,9 @@
 
 `Rio De Janeiro, Brazil - 01/06/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Partly Cloudy 
+Sunny
 
 </div>
 
@@ -58,21 +58,21 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Moderate rain</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.3 -  25.3 °C</td><td>18.4 -  27.9 °C</td><td>20 -  23.7 °C</td>
+        <td>17.3 -  25.2 °C</td><td>18.4 -  27.5 °C</td><td>20.1 -  24.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>8.3 kph</td><td>18.7 kph</td>
+        <td>9 kph</td><td>8.3 kph</td><td>16.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-02T17:25:38Z*
+*Updated at: 2024-06-02T17:31:59Z*

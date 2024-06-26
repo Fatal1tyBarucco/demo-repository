@@ -4,7 +4,7 @@
   "version": "0.0.18",
   "description": "My Demo Repo",
   "dependencies": {
-    "@primer/css": "21.3.3",
+    "@primer/css": "21.3.4",
     "husky": "^9.0.11",
     "npm": "^10.8.1"
   },

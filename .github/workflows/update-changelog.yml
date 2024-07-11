@@ -21,7 +21,7 @@ jobs:
         token: ${{ secrets.GH_TOKEN }}
         fetch-depth: 0
     - run: git config --global user.email "barucco@gmail.com"
-    - run: git config --global user.name "Renato Barucco"
+    - run: git config --global user.name "Fatal1tyBarucco"
     - run: git switch main
     - run: git pull
     - run: git show-ref

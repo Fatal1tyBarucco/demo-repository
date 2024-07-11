@@ -52,4 +52,5 @@ jobs:
       - run: git config --global user.email "barucco@gmail.com"
       - run: git config --global user.name "Renato Barucco"
       - run: npm version patch -m '${{ steps.release.outputs.next_version }}'
+      - run: git pull
       - run: git push

@@ -1,5 +1,20 @@
 
 
+## 0.0.30
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.30 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump codacy/codacy-analysis-cli-action from 4.4.1 to 4.4.2 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/45
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.29...0.0.30
+
+
 ## 0.0.29
 
 Minor release with many small,

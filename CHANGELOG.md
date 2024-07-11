@@ -1,5 +1,20 @@
 
 
+## 0.0.28
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.28 -->
+
+## What's Changed
+### 🏕 Features
+* Atualizar o update-changelog.yml by @rbaruccojr in https://github.com/Fatal1tyBarucco/demo-repository/pull/44
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.27...0.0.28
+
+
 ## 0.0.27
 
 Minor release with many small,

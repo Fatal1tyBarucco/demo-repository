@@ -15,7 +15,7 @@
 ## Today's Weather
 <div align="center">
 
-`Rio De Janeiro, Brazil - 11/07/2024`
+`Rio De Janeiro, Brésil - 11/07/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-07-12T23:32:23Z*
+*Updated at: 2024-07-12T23:46:55Z*

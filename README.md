@@ -15,7 +15,7 @@
 ## Today's Weather
 <div align="center">
 
-`Rio De Janeiro, Brazil - 12/07/2024`
+`Rio De Janeiro, Brésil - 12/07/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
@@ -75,4 +75,4 @@ Moderate rain
 </table>
 
 
-*Updated at: 2024-07-13T10:34:44Z*
+*Updated at: 2024-07-13T10:46:45Z*

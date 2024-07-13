@@ -15,7 +15,7 @@
 ## Today's Weather
 <div align="center">
 
-`Rio De Janeiro, Brésil - 12/07/2024`
+`Rio De Janeiro, Brazil - 12/07/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.9 °C</td><td>20.8 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>20.6 °C</td><td>20.1 °C</td><td>22.1 °C</td><td>22.6 °C</td><td>23.2 °C</td><td>23.8 °C</td><td>23.5 °C</td><td>22.5 °C</td><td>21.9 °C</td><td>21.2 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20.2 °C</td><td>20 °C</td>
+        <td>20.9 °C</td><td>20.8 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>22.1 °C</td><td>22.6 °C</td><td>23.2 °C</td><td>23.8 °C</td><td>23.5 °C</td><td>22.5 °C</td><td>21.9 °C</td><td>21.2 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20.2 °C</td><td>20 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-07-13T11:32:16Z*
+*Updated at: 2024-07-13T11:47:08Z*

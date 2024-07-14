@@ -43,7 +43,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>4 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4 kph</td><td>4 kph</td><td>6.5 kph</td><td>9 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>4.3 kph</td><td>4 kph</td><td>6.1 kph</td><td>7.9 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>4 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4 kph</td><td>4 kph</td><td>6.5 kph</td><td>13 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>4.3 kph</td><td>4 kph</td><td>6.1 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
@@ -66,13 +66,13 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19 -  25.3 °C</td><td>19.5 -  23.8 °C</td><td>19.5 -  23.7 °C</td>
+        <td>18.9 -  25.2 °C</td><td>19.6 -  23.5 °C</td><td>18.8 -  23.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>13.3 kph</td><td>11.2 kph</td>
+        <td>13.7 kph</td><td>13.7 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-14T16:09:47Z*
+*Updated at: 2024-07-14T16:44:27Z*

@@ -43,7 +43,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9 kph</td><td>6.5 kph</td><td>3.2 kph</td><td>0.4 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>4 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>4.3 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9 kph</td><td>6.5 kph</td><td>3.2 kph</td><td>0.4 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>4 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-07-17T07:09:06Z*
+*Updated at: 2024-07-17T07:22:58Z*

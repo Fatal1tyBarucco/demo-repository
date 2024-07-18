@@ -1,5 +1,20 @@
 
 
+## 0.0.34
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.34 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump husky from 9.0.11 to 9.1.1 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/49
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.33...0.0.34
+
+
 ## 0.0.33
 
 Minor release with many small,

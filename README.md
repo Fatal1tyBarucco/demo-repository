@@ -27,7 +27,7 @@ Sunny
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>$${\color{red}20:00}$$</td>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>$${\color{red}21:00}$$</td>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -43,7 +43,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>9.7 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>7.9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>4.7 kph</td>
+        <td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>9.7 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>7.9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -66,13 +66,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.3 -  22.8 °C</td><td>16 -  23 °C</td><td>16.6 -  25 °C</td>
+        <td>16.3 -  22.9 °C</td><td>16.2 -  23.4 °C</td><td>16.7 -  25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>12.6 kph</td><td>11.5 kph</td>
+        <td>11.5 kph</td><td>14.4 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-20T23:47:03Z*
+*Updated at: 2024-07-21T00:40:35Z*

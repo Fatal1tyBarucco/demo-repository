@@ -58,21 +58,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 -  24.3 °C</td><td>16.8 -  26.7 °C</td><td>19.1 -  27.7 °C</td>
+        <td>16.2 -  24.3 °C</td><td>16.8 -  26.5 °C</td><td>19 -  27.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>12.6 kph</td><td>10.1 kph</td>
+        <td>13.3 kph</td><td>12.2 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-24T05:08:35Z*
+*Updated at: 2024-07-24T05:27:51Z*

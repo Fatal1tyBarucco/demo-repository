@@ -66,13 +66,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.1 -  20.1 °C</td><td>18.8 -  23.2 °C</td><td>17.7 -  25 °C</td>
+        <td>19.1 -  20.5 °C</td><td>18.8 -  22.9 °C</td><td>17.7 -  24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14.4 kph</td><td>17.3 kph</td><td>16.9 kph</td>
+        <td>13.3 kph</td><td>16.6 kph</td><td>16.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-30T04:10:06Z*
+*Updated at: 2024-07-30T04:28:20Z*

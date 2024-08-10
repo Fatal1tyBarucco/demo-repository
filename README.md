@@ -66,13 +66,13 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.8 -  18.2 °C</td><td>15.9 -  21.5 °C</td><td>16 -  22.8 °C</td>
+        <td>15.8 -  18.2 °C</td><td>15.6 -  21.4 °C</td><td>16.1 -  22.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23.8 kph</td><td>10.8 kph</td><td>26.3 kph</td>
+        <td>25.6 kph</td><td>10.8 kph</td><td>26.3 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-08-10T10:09:42Z*
+*Updated at: 2024-08-10T10:29:20Z*

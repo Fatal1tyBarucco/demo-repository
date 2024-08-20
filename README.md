@@ -39,11 +39,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.8 °C</td><td>24.3 °C</td><td>22.2 °C</td><td>22 °C</td><td>21.8 °C</td><td>21.6 °C</td><td>21.9 °C</td><td>24.3 °C</td><td>27 °C</td><td>29.5 °C</td><td>30.1 °C</td><td>30.2 °C</td><td>30.6 °C</td><td>30.1 °C</td><td>28.3 °C</td><td>26.7 °C</td><td>24.9 °C</td><td>22.9 °C</td><td>21.9 °C</td><td>21.4 °C</td><td>21 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>20.2 °C</td>
+        <td>22.8 °C</td><td>24.4 °C</td><td>22.2 °C</td><td>22 °C</td><td>21.8 °C</td><td>21.6 °C</td><td>21.9 °C</td><td>24.3 °C</td><td>27 °C</td><td>29.5 °C</td><td>30.1 °C</td><td>30.2 °C</td><td>30.6 °C</td><td>30.1 °C</td><td>28.3 °C</td><td>26.7 °C</td><td>24.9 °C</td><td>22.9 °C</td><td>21.9 °C</td><td>21.4 °C</td><td>21 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>20.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>11.2 kph</td><td>6.5 kph</td><td>9 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>3.6 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>19.8 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.6 kph</td>
+        <td>6.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>9 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>3.6 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>19.8 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Sunny
 </table>
 
 
-*Updated at: 2024-08-20T04:12:06Z*
+*Updated at: 2024-08-20T04:33:10Z*

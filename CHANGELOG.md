@@ -1,5 +1,20 @@
 
 
+## 0.0.40
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.40 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump github/super-linter from 6 to 7 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/55
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.39...0.0.40
+
+
 ## 0.0.39
 
 Minor release with many small,

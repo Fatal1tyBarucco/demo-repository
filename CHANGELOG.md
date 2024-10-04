@@ -1,5 +1,20 @@
 
 
+## 0.0.43
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.43 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump npm from 10.8.3 to 10.9.0 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/58
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.42...0.0.43
+
+
 ## 0.0.42
 
 Minor release with many small,

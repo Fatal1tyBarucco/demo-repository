@@ -39,7 +39,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.2 °C</td><td>20.1 °C</td><td>19.4 °C</td><td>19.4 °C</td><td>19.6 °C</td><td>19.7 °C</td><td>19.8 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>20 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>20 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td>
+        <td>20.2 °C</td><td>20.4 °C</td><td>19.4 °C</td><td>19.4 °C</td><td>19.6 °C</td><td>19.7 °C</td><td>19.8 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>20 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>20 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.4 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -75,4 +75,4 @@ Heavy rain
 </table>
 
 
-*Updated at: 2024-10-20T03:36:45Z*
+*Updated at: 2024-10-20T03:50:08Z*

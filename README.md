@@ -27,7 +27,7 @@ Heavy rain
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>$${\color{red}17:00}$$</td>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>$${\color{red}18:00}$$</td>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -43,7 +43,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>2.2 kph</td><td>5.8 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.2 kph</td>
+        <td>13.7 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Heavy rain
 </table>
 
 
-*Updated at: 2024-10-20T20:46:48Z*
+*Updated at: 2024-10-20T21:08:22Z*

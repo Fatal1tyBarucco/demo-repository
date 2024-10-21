@@ -1,7 +1,7 @@
 {
   "name": "@fatal1tybarucco/demo-repository",
   "private": false,
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "My Demo Repo",
   "dependencies": {
     "@primer/css": "21.5.0",

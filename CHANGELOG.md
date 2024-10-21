@@ -1,5 +1,20 @@
 
 
+## 0.0.45
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.45 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump @primer/css from 21.4.0 to 21.5.0 by @dependabot in https://github.com/Fatal1tyBarucco/demo-repository/pull/60
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.44...0.0.45
+
+
 ## 0.0.44
 
 Minor release with many small,

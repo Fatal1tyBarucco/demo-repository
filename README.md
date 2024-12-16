@@ -17,9 +17,9 @@
 
 `Rio De Janeiro, Brazil - 15/12/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain nearby
 
 </div>
 
@@ -39,7 +39,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24 °C</td><td>24.5 °C</td><td>26.7 °C</td><td>28.8 °C</td><td>33.3 °C</td><td>31.5 °C</td><td>32 °C</td><td>32.6 °C</td><td>29.4 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.2 °C</td><td>23.5 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23 °C</td>
+        <td>24.8 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24 °C</td><td>24.5 °C</td><td>26.7 °C</td><td>28.8 °C</td><td>33.4 °C</td><td>31.5 °C</td><td>32 °C</td><td>32.6 °C</td><td>29.4 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.2 °C</td><td>23.5 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,21 +58,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23 -  32.6 °C</td><td>22.2 -  26.7 °C</td><td>21.9 -  26.4 °C</td>
+        <td>23.2 -  32.7 °C</td><td>22.4 -  26.9 °C</td><td>21.9 -  26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>13.3 kph</td><td>13.7 kph</td>
+        <td>11.2 kph</td><td>13.7 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-12-16T11:32:37Z*
+*Updated at: 2024-12-16T11:46:50Z*

@@ -58,21 +58,21 @@ Heavy rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.7 -  33.7 °C</td><td>21.9 -  28.8 °C</td><td>23.1 -  26.9 °C</td>
+        <td>21.6 -  33.9 °C</td><td>21.6 -  29.7 °C</td><td>23 -  27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22.3 kph</td><td>13.7 kph</td><td>9 kph</td>
+        <td>32.8 kph</td><td>14.8 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-12-20T11:32:25Z*
+*Updated at: 2024-12-20T11:46:55Z*

@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.1 °C</td><td>21.9 °C</td><td>21.7 °C</td><td>21.5 °C</td><td>21.4 °C</td><td>21.7 °C</td><td>22.8 °C</td><td>25.1 °C</td><td>25.4 °C</td><td>26.5 °C</td><td>27.1 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>24.5 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.1 °C</td>
+        <td>22.1 °C</td><td>21.9 °C</td><td>21.7 °C</td><td>21.5 °C</td><td>21.4 °C</td><td>21.7 °C</td><td>22.8 °C</td><td>25.2 °C</td><td>25.4 °C</td><td>26.5 °C</td><td>27.1 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>24.5 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,21 +58,21 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.4 -  27.5 °C</td><td>22.1 -  28.6 °C</td><td>22.2 -  30.4 °C</td>
+        <td>21.2 -  27.6 °C</td><td>22.4 -  28.6 °C</td><td>22.4 -  30.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>15.8 kph</td><td>15.1 kph</td>
+        <td>15.5 kph</td><td>14.8 kph</td><td>16.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-12-31T11:22:08Z*
+*Updated at: 2024-12-31T11:32:36Z*

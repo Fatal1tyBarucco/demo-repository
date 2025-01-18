@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/49b089875bf24d0aa60d074b89fcc4cd)](https://app.codacy.com/gh/Fatal1tyBarucco/demo-repository?utm_source=github.com&utm_medium=referral&utm_content=Fatal1tyBarucco/demo-repository&utm_campaign=Badge_Grade)
 [![Auto Assign](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/auto-assign.yml)
 
 [![Proof HTML](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Fatal1tyBarucco/demo-repository/actions/workflows/proof-html.yml)

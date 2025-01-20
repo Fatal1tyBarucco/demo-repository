@@ -27,7 +27,7 @@ Patchy rain nearby
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>$${\color{red}23:00}$$</td> 
+          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.5 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25.1 °C</td><td>26.6 °C</td><td>28.7 °C</td><td>30.7 °C</td><td>32.6 °C</td><td>33.7 °C</td><td>34 °C</td><td>33.9 °C</td><td>33.4 °C</td><td>32.4 °C</td><td>31.4 °C</td><td>30.1 °C</td><td>28.4 °C</td><td>27.4 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>26 °C</td>
+        <td>25.5 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25.1 °C</td><td>26.6 °C</td><td>28.7 °C</td><td>30.7 °C</td><td>32.6 °C</td><td>33.7 °C</td><td>34 °C</td><td>33.9 °C</td><td>33.4 °C</td><td>32.4 °C</td><td>31.4 °C</td><td>30.1 °C</td><td>28.4 °C</td><td>27.4 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-01-20T02:53:20Z*
+*Updated at: 2025-01-20T03:12:32Z*

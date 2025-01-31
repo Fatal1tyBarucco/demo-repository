@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.6 °C</td><td>27.5 °C</td><td>28.3 °C</td><td>28.5 °C</td><td>31.2 °C</td><td>31.9 °C</td><td>30.2 °C</td><td>29 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>24.2 °C</td><td>24 °C</td>
+        <td>25 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.6 °C</td><td>27.5 °C</td><td>28.3 °C</td><td>28.5 °C</td><td>31.2 °C</td><td>31.9 °C</td><td>30.2 °C</td><td>29 °C</td><td>28.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>25 °C</td><td>25.2 °C</td><td>24.2 °C</td><td>24 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,21 +58,21 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.7 -  31.7 °C</td><td>23.8 -  31.9 °C</td><td>23.5 -  32.4 °C</td>
+        <td>24 -  31.9 °C</td><td>23.3 -  30.7 °C</td><td>23.1 -  31.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>11.2 kph</td><td>11.5 kph</td>
+        <td>10.8 kph</td><td>8.6 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-01-31T23:32:22Z*
+*Updated at: 2025-01-31T23:46:41Z*

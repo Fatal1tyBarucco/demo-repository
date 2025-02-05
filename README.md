@@ -17,9 +17,9 @@
 
 `Rio De Janeiro, Brazil - 04/02/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 </div>
 
@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.4 °C</td><td>24.3 °C</td><td>26.3 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>25.4 °C</td><td>27.6 °C</td><td>30 °C</td><td>32.1 °C</td><td>32.9 °C</td><td>32.8 °C</td><td>32.9 °C</td><td>32.7 °C</td><td>32.1 °C</td><td>31.5 °C</td><td>30.4 °C</td><td>29.4 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.2 °C</td>
+        <td>24.4 °C</td><td>24.3 °C</td><td>26.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>25.4 °C</td><td>27.6 °C</td><td>30 °C</td><td>32.1 °C</td><td>32.9 °C</td><td>32.8 °C</td><td>32.9 °C</td><td>32.7 °C</td><td>32.1 °C</td><td>31.5 °C</td><td>30.4 °C</td><td>29.4 °C</td><td>28.1 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,21 +58,21 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 -  33.1 °C</td><td>24.9 -  34.1 °C</td><td>25 -  33.3 °C</td>
+        <td>24 -  32.9 °C</td><td>24.8 -  33.6 °C</td><td>24.7 -  32.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>11.9 kph</td><td>16.6 kph</td>
+        <td>15.8 kph</td><td>11.9 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-02-05T05:09:34Z*
+*Updated at: 2025-02-05T05:30:27Z*

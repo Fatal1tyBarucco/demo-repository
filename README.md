@@ -27,7 +27,7 @@ Patchy rain nearby
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>$${\color{red}08:00}$$</td>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>$${\color{red}09:00}$$</td>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -39,11 +39,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24 °C</td><td>24 °C</td><td>25.3 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>30.6 °C</td><td>30.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>29.7 °C</td><td>29.3 °C</td><td>28.3 °C</td><td>26.4 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td>
+        <td>24.8 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24 °C</td><td>24 °C</td><td>25.3 °C</td><td>27.3 °C</td><td>29.4 °C</td><td>28.4 °C</td><td>30.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>29.7 °C</td><td>29.3 °C</td><td>28.3 °C</td><td>26.4 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>11.2 kph</td><td>13.7 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>11.9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td>
+        <td>2.5 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>6.8 kph</td><td>11.2 kph</td><td>13.7 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>11.9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-02-15T11:46:51Z*
+*Updated at: 2025-02-15T12:14:37Z*

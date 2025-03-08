@@ -17,9 +17,9 @@
 
 `Rio De Janeiro, Brazil - 07/03/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 </div>
 
@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>29.4 °C</td><td>29.9 °C</td><td>30.1 °C</td><td>30 °C</td><td>30 °C</td><td>29.6 °C</td><td>29 °C</td><td>27.9 °C</td><td>26.7 °C</td><td>26 °C</td><td>25.8 °C</td><td>26.4 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.6 °C</td>
+        <td>24.3 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>24.4 °C</td><td>26.4 °C</td><td>28.3 °C</td><td>29.4 °C</td><td>29.9 °C</td><td>30.1 °C</td><td>30 °C</td><td>30 °C</td><td>29.6 °C</td><td>29 °C</td><td>27.9 °C</td><td>26.7 °C</td><td>26 °C</td><td>25.8 °C</td><td>26.3 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,15 +58,15 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.2 -  30.2 °C</td><td>23.2 -  32.3 °C</td><td>23.2 -  30.6 °C</td>
+        <td>23.2 -  30.1 °C</td><td>23.3 -  32.6 °C</td><td>23.1 -  30.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-03-08T23:32:21Z*
+*Updated at: 2025-03-08T23:46:49Z*

@@ -66,13 +66,13 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.5 -  23.3 °C</td><td>21.2 -  22.6 °C</td><td>20.5 -  25.4 °C</td>
+        <td>21.8 -  23.2 °C</td><td>21.6 -  22.5 °C</td><td>20.6 -  25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.8 kph</td><td>14.4 kph</td><td>15.1 kph</td>
+        <td>24.5 kph</td><td>14.8 kph</td><td>13 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-04-05T16:33:28Z*
+*Updated at: 2025-04-05T16:48:56Z*

@@ -39,7 +39,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.2 °C</td><td>22.1 °C</td><td>22 °C</td><td>22 °C</td><td>22 °C</td><td>21.7 °C</td><td>22.1 °C</td><td>22.5 °C</td><td>22.7 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.7 °C</td><td>23.1 °C</td><td>22.6 °C</td><td>22.8 °C</td><td>21.9 °C</td><td>21.2 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.8 °C</td><td>21.7 °C</td><td>21.6 °C</td><td>21.5 °C</td>
+        <td>22.2 °C</td><td>22.1 °C</td><td>22 °C</td><td>22 °C</td><td>22 °C</td><td>21.7 °C</td><td>22.1 °C</td><td>22.5 °C</td><td>22.7 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.7 °C</td><td>23.2 °C</td><td>22.6 °C</td><td>22.8 °C</td><td>21.9 °C</td><td>21.2 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.8 °C</td><td>21.7 °C</td><td>21.6 °C</td><td>21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -66,13 +66,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.2 -  23.5 °C</td><td>20 -  25.3 °C</td><td>18.1 -  26.4 °C</td>
+        <td>21.2 -  22.8 °C</td><td>20.3 -  25.3 °C</td><td>18.2 -  26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>14 kph</td><td>14.8 kph</td>
+        <td>13.7 kph</td><td>13.7 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-04-06T16:32:05Z*
+*Updated at: 2025-04-06T16:48:31Z*

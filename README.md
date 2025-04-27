@@ -66,13 +66,13 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.9 -  27.5 °C</td><td>21.7 -  28.1 °C</td><td>20.3 -  22.6 °C</td>
+        <td>20.9 -  27.4 °C</td><td>21.8 -  28.4 °C</td><td>20.6 -  22.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>23 kph</td><td>11.5 kph</td>
+        <td>13.3 kph</td><td>18.4 kph</td><td>12.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-04-27T10:31:50Z*
+*Updated at: 2025-04-27T10:46:40Z*

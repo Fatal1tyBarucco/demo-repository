@@ -17,9 +17,9 @@
 
 `Rio De Janeiro, Brazil - 05/05/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Sunny
+Partly Cloudy 
 
 </div>
 
@@ -27,7 +27,7 @@ Sunny
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>$${\color{red}21:00}$$</td>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>$${\color{red}23:00}$$</td> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -39,7 +39,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.1 °C</td><td>20.2 °C</td><td>19.6 °C</td><td>19.2 °C</td><td>18.9 °C</td><td>18.9 °C</td><td>19.3 °C</td><td>21.1 °C</td><td>22.8 °C</td><td>24.1 °C</td><td>25 °C</td><td>26.1 °C</td><td>26.6 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>24.9 °C</td><td>23.6 °C</td><td>23.1 °C</td><td>22.9 °C</td><td>22.8 °C</td><td>22.3 °C</td><td>21.8 °C</td><td>21.4 °C</td><td>21 °C</td>
+        <td>20.1 °C</td><td>20.2 °C</td><td>19.6 °C</td><td>19.2 °C</td><td>18.9 °C</td><td>18.9 °C</td><td>19.3 °C</td><td>21.1 °C</td><td>22.8 °C</td><td>24.1 °C</td><td>25 °C</td><td>26.1 °C</td><td>26.6 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>24.9 °C</td><td>23.6 °C</td><td>23.1 °C</td><td>22.9 °C</td><td>22.8 °C</td><td>22.3 °C</td><td>21.8 °C</td><td>21.4 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -58,21 +58,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.9 -  26.4 °C</td><td>19.4 -  26.9 °C</td><td>20.1 -  28.8 °C</td>
+        <td>18.9 -  26.6 °C</td><td>19.7 -  27.2 °C</td><td>20.2 -  28.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>13 kph</td><td>10.8 kph</td>
+        <td>13.7 kph</td><td>13 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-05-07T00:50:34Z*
+*Updated at: 2025-05-07T02:27:51Z*

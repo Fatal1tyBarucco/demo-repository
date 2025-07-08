@@ -39,11 +39,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.3 °C</td><td>16.1 °C</td><td>15.8 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.5 °C</td><td>16.9 °C</td><td>19 °C</td><td>20.8 °C</td><td>22.3 °C</td><td>23.1 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.3 °C</td><td>20.7 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>21.3 °C</td><td>18.3 °C</td><td>17.8 °C</td><td>17.3 °C</td><td>17.1 °C</td>
+        <td>16.3 °C</td><td>16.1 °C</td><td>15.8 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.5 °C</td><td>16.9 °C</td><td>19 °C</td><td>20.8 °C</td><td>22.3 °C</td><td>23.1 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.3 °C</td><td>20.7 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.8 °C</td><td>21.1 °C</td><td>17.8 °C</td><td>17.3 °C</td><td>17.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>4 kph</td><td>6.5 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>8.6 kph</td>
+        <td>5.8 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>4 kph</td><td>6.5 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
@@ -75,4 +75,4 @@ Sunny
 </table>
 
 
-*Updated at: 2025-07-08T22:33:26Z*
+*Updated at: 2025-07-08T22:50:24Z*

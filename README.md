@@ -27,7 +27,7 @@ Patchy rain nearby
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>$${\color{red}02:00}$$</td>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>$${\color{red}03:00}$$</td>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -39,7 +39,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19 °C</td><td>18.8 °C</td><td>20.2 °C</td><td>18.4 °C</td><td>18.3 °C</td><td>18.1 °C</td><td>18.1 °C</td><td>19.8 °C</td><td>22.3 °C</td><td>25 °C</td><td>27.4 °C</td><td>28.7 °C</td><td>29 °C</td><td>26.7 °C</td><td>24.4 °C</td><td>23.1 °C</td><td>22 °C</td><td>20.8 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>20.1 °C</td><td>19.8 °C</td><td>19.6 °C</td>
+        <td>19 °C</td><td>18.8 °C</td><td>18.6 °C</td><td>20.2 °C</td><td>18.3 °C</td><td>18.1 °C</td><td>18.1 °C</td><td>19.8 °C</td><td>22.3 °C</td><td>25 °C</td><td>27.4 °C</td><td>28.7 °C</td><td>29 °C</td><td>26.7 °C</td><td>24.4 °C</td><td>23.1 °C</td><td>22 °C</td><td>20.8 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>20.1 °C</td><td>19.8 °C</td><td>19.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -75,4 +75,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-07-18T05:54:21Z*
+*Updated at: 2025-07-18T06:16:42Z*

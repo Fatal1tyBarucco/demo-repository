@@ -1,5 +1,20 @@
 
 
+## 0.0.65
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.65 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump npm from 11.5.1 to 11.5.2 by @dependabot[bot] in https://github.com/Fatal1tyBarucco/demo-repository/pull/81
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/demo-repository/compare/0.0.64...0.0.65
+
+
 ## 0.0.64
 
 Minor release with many small,
